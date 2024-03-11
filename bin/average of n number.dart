@@ -1,5 +1,5 @@
 
-//write a program that find average of n number in dart
+//write a program that find average of n number in dart Chopoi
 
 import 'dart:io';
 
